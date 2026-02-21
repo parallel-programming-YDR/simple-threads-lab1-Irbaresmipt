@@ -1,3 +1,8 @@
 build/
 .vscode/
 .idea/
+.cache/
+comile_commands.json
+../comile_commands.json
+data
+out
